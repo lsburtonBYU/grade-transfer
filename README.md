@@ -28,7 +28,7 @@ Download gradebook from MyEducator. Include points earned and submission time:
 
 Paste all the data in this file to the _MyEducator_ sheet, starting in cell A1.
 
-# Grade import file
+## Grade import file
 
 In the **Grade Import** tab, click each button in order (make sure you do this while on the _Learning Suite_ sheet). The buttons are:
 
